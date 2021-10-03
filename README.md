@@ -8,11 +8,8 @@
 - :zap: *"You only find true fufilment in things that challenge you"*
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/carlos-timotheus-web-developer-b276b4176/">
-<img align="left" alt="Carlos 860 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />
-</a>
-
 [<img align="left" alt="Carlos 860 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/carlos-timotheus-web-developer-b276b4176/)
+
 <br />
 
 ### Languages and Tools:
@@ -59,7 +56,13 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" />
 
+<br />
+<br />
 
+:rotating_light: Latest Blog Posts
+- [JavaScript ES6 still confusing?](https://www.ciphercode.co.za/views/blog/javascript-es6.php)
+- [Front-end technology to master before React js](https://www.ciphercode.co.za/views/blog/front-end-technology-to-master.php)
+- [Meta tags your website cannot go without](https://www.ciphercode.co.za/views/blog/meta-tags.php)
 
 
 
