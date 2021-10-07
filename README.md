@@ -50,6 +50,9 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" />
 
 <br />
+
+---
+
 <br />
 
 ### :rotating_light: Latest Blog Posts
@@ -57,8 +60,13 @@
 - [Front-end technology to master before React js](https://www.ciphercode.co.za/views/blog/front-end-technology-to-master.php)
 - [Meta tags your website cannot go without](https://www.ciphercode.co.za/views/blog/meta-tags.php)
 
+<br />
 
+---
 
+<br />
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Carlos-860)
 
 
 
