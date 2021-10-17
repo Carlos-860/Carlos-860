@@ -11,18 +11,11 @@
 
 :zap: *"You only find true fulfilment in things that challenge you"*
 
-<br>
-
 ### Connect with me:
 
 [<img align="left" alt="Carlos 860 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/carlos-timotheus-web-developer-b276b4176/)
 
-<br>
-
 ### Languages and Tools:
-
-![](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg)
-![](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg)
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" />
 
@@ -56,7 +49,6 @@
 
 <img align="left" alt="Trello" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" />
 
-<br>
 <br>
 <br>
 
