@@ -49,7 +49,8 @@
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" />
 
 <img align="left" alt="Trello" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" />
-<br />
+<br>
+<br>
 
 ### :rotating_light: Latest Blog Posts
 
