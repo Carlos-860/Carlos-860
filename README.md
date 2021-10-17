@@ -14,6 +14,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Carlos 860 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/carlos-timotheus-web-developer-b276b4176/)
+<br>
 
 ### Languages and Tools:
 
@@ -48,12 +49,15 @@
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" />
 
 <img align="left" alt="Trello" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" />
+<br />
 
 ### :rotating_light: Latest Blog Posts
 
-- [JavaScript ES6 still confusing?](https://www.ciphercode.co.za/views/blog/javascript-es6.php)
-- [Front-end technology to master before React js](https://www.ciphercode.co.za/views/blog/front-end-technology-to-master.php)
-- [Meta tags your website cannot go without](https://www.ciphercode.co.za/views/blog/meta-tags.php)
+JavaScript ES6 still confusing?[:link:](https://www.ciphercode.co.za/views/blog/javascript-es6.php)
+
+Front-end technology to master before React js[:link:](https://www.ciphercode.co.za/views/blog/front-end-technology-to-master.php)
+
+Meta tags your website cannot go without[:link:](https://www.ciphercode.co.za/views/blog/meta-tags.php)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Carlos-860&show_icons=true&hide_border=true&theme=radical)
 
