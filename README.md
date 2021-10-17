@@ -1,16 +1,19 @@
 ### Hi there, I'm Carlos :wave:
 
 ## I'm a Developer, learner and tech enthusiast!
-- :building_construction: I'm currently working on our [Web Development Journey](https://github.com/Carlos-860/Web-Development-Journey)
-- :seedling: I'm continuously learning everything :rofl:
-- :dancers: I'm looking to collaborate with other content creators
-- :soccer: 2021 Goals: Become active on Github
-- :zap: *"You only find true fulfilment in things that challenge you"*
+:building_construction: I'm currently working on our [Web Development Journey](https://github.com/Carlos-860/Web-Development-Journey)
+
+:seedling: I'm continuously learning everything :rofl:
+
+:dancers: I'm looking to collaborate with other content creators
+
+:soccer: 2021 Goals: Become active on Github
+
+:zap: *"You only find true fulfilment in things that challenge you"*
 
 ### Connect with me:
-[<img align="left" alt="Carlos 860 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/carlos-timotheus-web-developer-b276b4176/)
 
-<br />
+[<img align="left" alt="Carlos 860 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/carlos-timotheus-web-developer-b276b4176/)
 
 ### Languages and Tools:
 
@@ -40,25 +43,17 @@
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" />
 
-
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg" />
 
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" />
 
 <img align="left" alt="Trello" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" />
 
-<br />
-
 ### :rotating_light: Latest Blog Posts
+
 - [JavaScript ES6 still confusing?](https://www.ciphercode.co.za/views/blog/javascript-es6.php)
 - [Front-end technology to master before React js](https://www.ciphercode.co.za/views/blog/front-end-technology-to-master.php)
 - [Meta tags your website cannot go without](https://www.ciphercode.co.za/views/blog/meta-tags.php)
-
-<br />
-
----
-
-<br />
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Carlos-860&show_icons=true&hide_border=true&theme=radical)
 
