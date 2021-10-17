@@ -13,6 +13,11 @@
 
 ### Connect with me:
 
+![](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg | width=22)
+
+
+![](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg =22x22)
+
 [<img align="left" alt="Carlos 860 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/carlos-timotheus-web-developer-b276b4176/)
 <br>
 
