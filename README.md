@@ -59,5 +59,3 @@
 [Front-end technology to master before React js](https://www.ciphercode.co.za/views/blog/front-end-technology-to-master.php)
 
 [Meta tags your website cannot go without](https://www.ciphercode.co.za/views/blog/meta-tags.php)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=Carlos-860&show_icons=true&hide_border=true&theme=radical)
