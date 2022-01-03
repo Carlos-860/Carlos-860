@@ -7,7 +7,7 @@
 
 :dancers: I'm looking to collaborate with other content creators
 
-:soccer: 2021 Goals: Become active on Github
+:soccer: 2022 Goals: Contribute to open-source projects
 
 :zap: *"You only find true fulfilment in things that challenge you"*
 
