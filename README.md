@@ -56,25 +56,25 @@
     <tbody>
         <tr>
             <td>
-                <img alt="SASS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg" />
+                <img alt="SASS" width="26px" title="SASS" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg" />
             </td>
             <td>
-                <img alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" />
+                <img alt="Bootstrap" width="26px" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" />
             </td>
             <td>
-            <img alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg" />
+            <img alt="Tailwind CSS" width="26px" title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg" />
             </td>
             <td>
-            <img alt="Material UI" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/materialui/materialui-original.svg" />
+            <img alt="Material UI" width="26px" title="Material UI" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/materialui/materialui-original.svg" />
             </td>
             <td>
-            <img alt="jQuery" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg" />
+            <img alt="jQuery" width="26px" title="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg" />
             </td>
             <td>
-            <img alt="React js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" />
+            <img alt="React js" width="26px" title="React js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" />
             </td>
             <td>
-            <img alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gatsby/gatsby-original.svg" />
+            <img alt="Gatsby" width="26px" title="Gatsby" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gatsby/gatsby-original.svg" />
             </td>
         </tr>
     </tbody>
@@ -88,19 +88,19 @@
     <tbody>
         <tr>
             <td>
-                <img alt="NPM" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" />
+                <img alt="NPM" width="26px" title="NPM" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" />
             </td>
             <td>
-                <img alt="Webpack" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/webpack/webpack-original.svg" />
+                <img alt="Webpack" width="26px" title="Webpack" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/webpack/webpack-original.svg" />
             </td>
             <td>
-                <img alt="vscode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" />
+                <img alt="vscode" width="26px" title="vscode" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" />
             </td>
             <td>
-                <img alt="Slack" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/slack/slack-original.svg" />
+                <img alt="Slack" width="26px" title="Slack" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/slack/slack-original.svg" />
             </td>
             <td>
-                <img alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-original.svg" />
+                <img alt="Wordpress" width="26px" title="Wordpress" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-original.svg" />
             </td>
         </tr>
     </tbody>
@@ -114,10 +114,10 @@
     <tbody>
         <tr>
             <td>
-                <img alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" />
+                <img alt="Figma" width="26px" title="Figma" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" />
             </td>
             <td>
-                <img alt="Sketch" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sketch/sketch-original.svg" />
+                <img alt="Sketch" width="26px" title="Sketch" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sketch/sketch-original.svg" />
             </td>
         </tr>
     </tbody>
@@ -125,31 +125,31 @@
 
 <!---
 
-Alpine JS /
+Alpine JS | Git
 
-<img alt="Graphql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/graphql/graphql-plain.svg" />
+<img alt="Graphql" width="26px" title="Graphql" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/graphql/graphql-plain.svg" />
 
-<img alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redux/redux-original.svg" />
+<img alt="Redux" width="26px" title="Redux" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redux/redux-original.svg" />
 
-<img alt="Next js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg" />
+<img alt="Next js" width="26px" title="Next js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg" />
 
-<img alt="Vue js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" />
+<img alt="Vue js" width="26px" title="Vue js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" />
 
-<img alt="Nuxt js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nuxtjs/nuxtjs-original.svg" />
+<img alt="Nuxt js" width="26px" title="Nuxt js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nuxtjs/nuxtjs-original.svg" />
 
-<img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" />
+<img alt="TypeScript" width="26px" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" />
 
-<img alt="Angular js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg" />
+<img alt="Angular js" width="26px" title="Angular js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg" />
 
-<img alt="Node js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" />
+<img alt="Node js" width="26px" title="Node js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" />
 
-<img alt="Express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original.svg" />
+<img alt="Express" width="26px" title="Express" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original.svg" />
 
-<img alt="Mongo DB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg" />
+<img alt="Mongo DB" width="26px" title="Mongo DB" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg" />
 
-<img alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" />
+<img alt="Postgresql" width="26px" title="Postgresql" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" />
 
-<img alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain.svg" />
+<img alt="Laravel" width="26px" title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain.svg" />
 
 -->
 
@@ -162,3 +162,10 @@ Alpine JS /
 [Front-end technology to master before React js](https://www.ciphercode.co.za/views/blog/front-end-technology-to-master.php)
 
 [Meta tags your website cannot go without](https://www.ciphercode.co.za/views/blog/meta-tags.php)
+
+<!---
+
+    RECOMMENDATIONS!!!
+    -> Link icons to relevant project or code snippets in my repo.
+
+-->
