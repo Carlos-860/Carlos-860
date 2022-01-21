@@ -8,7 +8,7 @@
 
 :dancers: I'm looking to collaborate with other content creators
 
-:soccer: 2022 Goals: Contribute to open-source projects
+:soccer: 2022 Goals: Contribute to more open-source projects
 
 :zap: _"You only find true fulfilment in things that challenge you"_
 
@@ -100,7 +100,7 @@
                 <img alt="Slack" width="26px" title="Slack" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/slack/slack-original.svg" />
             </td>
             <td>
-                <img alt="Wordpress" width="26px" title="Wordpress" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-original.svg" />
+                <img alt="Wordpress" width="26px" title="WordPress" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-original.svg" />
             </td>
         </tr>
     </tbody>
