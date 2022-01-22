@@ -22,8 +22,6 @@
 
 -->
 
-<br>
-
 ### Langauges
 
 <table>
@@ -47,8 +45,6 @@
         </tr>
     </tbody>
 </table>
-
-<br>
 
 ### Libraries and Frameworks
 
@@ -80,8 +76,6 @@
     </tbody>
 </table>
 
-<br>
-
 ### Project Tools
 
 <table>
@@ -105,8 +99,6 @@
         </tr>
     </tbody>
 </table>
-
-<br>
 
 ### Design Tools
 
