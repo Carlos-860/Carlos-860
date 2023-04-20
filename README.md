@@ -8,7 +8,7 @@
 
 :dancers: I'm looking to collaborate with other content creators
 
-:soccer: 2022 Goals: Contribute to more open-source projects
+:soccer: 2023 Goals: Contribute to more open-source projects
 
 :zap: _"You only find true fulfilment in things that challenge you"_
 
