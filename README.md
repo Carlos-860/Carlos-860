@@ -6,7 +6,7 @@
 
 :dancers: I'm looking to collaborate with other content creators
 
-:soccer: 2024 Goals: Build out a full-fledged Saas tool for neglected industries.
+:soccer: 2024 Goals: Build out a fully-fledged Saas tool for neglected industries.
 
 :zap: _"You only find true fulfilment in things that challenge you"_
 
