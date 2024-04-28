@@ -2,25 +2,17 @@
 
 ## I'm a Developer, learner and tech enthusiast!
 
-:building_construction: I'm currently working on our [Web Development Journey](https://github.com/Carlos-860/Web-Development-Journey)
-
 :seedling: I'm continuously learning everything :rofl:
 
 :dancers: I'm looking to collaborate with other content creators
 
-:soccer: 2023 Goals: Contribute to more open-source projects
+:soccer: 2024 Goals: Build out a full-fledged Saas tool for neglected industries.
 
 :zap: _"You only find true fulfilment in things that challenge you"_
 
 ### Connect with me:
 
 [<img alt="Carlos 860 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/carlos-timotheus-web-developer-b276b4176/)
-
-<!---
-
-<img alt="Carlos Twitter Account" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/twitter/twitter-original.svg" />
-
--->
 
 ### Langauges
 
@@ -37,10 +29,19 @@
                 <img alt="JavaScript" width="26px" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" />
             </td>
             <td>
+                <img alt="TypeScript" width="26px" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" />
+            </td>
+            <td>
                 <img alt="PHP" width="26px" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" />
             </td>
             <td>
+                <img alt="Node js" width="26px" title="Node js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" />
+            </td>
+            <td>
                 <img alt="MySQL" width="26px" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" />
+            </td>
+            <td>               
+                <img alt="PostgreSQL" width="26px" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
             </td>
         </tr>
     </tbody>
@@ -64,19 +65,37 @@
             <img alt="Material UI" width="26px" title="Material UI" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/materialui/materialui-original.svg" />
             </td>
             <td>
+            <img alt="AntDesign" width="26px" title="AntDesign" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" />
+            </td>
+            <td>
             <img alt="jQuery" width="26px" title="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg" />
             </td>
             <td>
             <img alt="React js" width="26px" title="React js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" />
             </td>
             <td>
-            <img alt="Gatsby" width="26px" title="Gatsby" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gatsby/gatsby-original.svg" />
+            <img alt="Next js" width="26px" title="Next js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg" />
+            </td>
+            <td>
+            <img alt="Socket.io" width="26px" title="Socket.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" />
+            </td>
+            <td>
+            <img alt="React Router" width="26px" title="React Router" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" />
+            </td>
+            <td>  
+            <img alt="Alpine js" width="26px" title="Alpine js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" />
+            </td>
+            <td>
+            <img alt="Livewire" width="26px" title="Livewire"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" />
+            </td>
+            <td>
+            <img alt="Laravel" width="26px" title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain.svg" />
             </td>
         </tr>
     </tbody>
 </table>
 
-### Project Tools
+### Project Tools and Services
 
 <table>
     <tbody>
@@ -88,13 +107,43 @@
                 <img alt="Webpack" width="26px" title="Webpack" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/webpack/webpack-original.svg" />
             </td>
             <td>
+                <img alt="Vitejs" width="26px" title="Vitejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+            </td>
+            <td>
+                <img alt="Jest" width="26px" title="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+            </td>
+            <td>
+                <img alt="Cypress.io" width="26px" title="Cypress.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+            </td>
+            <td>
+                <img alt="Postman" width="26px" title="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+            </td>
+            <td>
                 <img alt="vscode" width="26px" title="vscode" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" />
+            </td>
+            <td>
+                <img alt="powershell" width="26px" title="powershell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+            </td>
+            <td>
+                <img alt="Notion" width="26px" title="Notion" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+            </td>
+            <td>
+                <img alt="Jira" width="26px" title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+            </td>
+            <td>
+                <img alt="Confluence" width="26px" title="Confluence" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" />
             </td>
             <td>
                 <img alt="Slack" width="26px" title="Slack" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/slack/slack-original.svg" />
             </td>
             <td>
                 <img alt="Wordpress" width="26px" title="WordPress" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-original.svg" />
+            </td>
+            <td>
+                <img alt="Netlify" width="26px" title="Netlify" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
+            </td>
+            <td>
+                <img alt="Vercel" width="26px" title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />
             </td>
         </tr>
     </tbody>
@@ -115,36 +164,6 @@
     </tbody>
 </table>
 
-<!---
-
-Alpine JS | Git
-
-<img alt="Graphql" width="26px" title="Graphql" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/graphql/graphql-plain.svg" />
-
-<img alt="Redux" width="26px" title="Redux" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redux/redux-original.svg" />
-
-<img alt="Next js" width="26px" title="Next js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg" />
-
-<img alt="Vue js" width="26px" title="Vue js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" />
-
-<img alt="Nuxt js" width="26px" title="Nuxt js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nuxtjs/nuxtjs-original.svg" />
-
-<img alt="TypeScript" width="26px" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" />
-
-<img alt="Angular js" width="26px" title="Angular js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg" />
-
-<img alt="Node js" width="26px" title="Node js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" />
-
-<img alt="Express" width="26px" title="Express" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original.svg" />
-
-<img alt="Mongo DB" width="26px" title="Mongo DB" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg" />
-
-<img alt="Postgresql" width="26px" title="Postgresql" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" />
-
-<img alt="Laravel" width="26px" title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain.svg" />
-
--->
-
 <br>
 
 ### Latest Blog Posts
@@ -155,7 +174,9 @@ Alpine JS | Git
 
 [Meta tags your website cannot go without](https://www.ciphercode.co.za/views/blog/meta-tags.php)
 
-### April Personal Projects
+### Projects
+
+[CarHub (built with Next.js and TypeScript)](https://github.com/Carlos-860/car-showcase/)
 
 [Tesla Clone (built with React js)](https://carlos-860.github.io/Tesla-Clone/)
 
