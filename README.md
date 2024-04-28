@@ -59,37 +59,37 @@
                 <img alt="Bootstrap" width="26px" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" />
             </td>
             <td>
-            <img alt="Tailwind CSS" width="26px" title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg" />
+                <img alt="Tailwind CSS" width="26px" title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg" />
             </td>
             <td>
-            <img alt="Material UI" width="26px" title="Material UI" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/materialui/materialui-original.svg" />
+                <img alt="Material UI" width="26px" title="Material UI" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/materialui/materialui-original.svg" />
             </td>
             <td>
-            <img alt="AntDesign" width="26px" title="AntDesign" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" />
+                <img alt="AntDesign" width="26px" title="AntDesign" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" />
             </td>
             <td>
-            <img alt="jQuery" width="26px" title="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg" />
+                <img alt="jQuery" width="26px" title="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg" />
             </td>
             <td>
-            <img alt="React js" width="26px" title="React js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" />
+                <img alt="React js" width="26px" title="React js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" />
             </td>
             <td>
-            <img alt="Next js" width="26px" title="Next js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+                <img alt="Next js" width="26px" title="Next js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
             </td>
             <td>
-            <img alt="Socket.io" width="26px" title="Socket.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" />
+                <img alt="Socket.io" width="26px" title="Socket.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" />
             </td>
             <td>
-            <img alt="React Router" width="26px" title="React Router" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" />
+                <img alt="React Router" width="26px" title="React Router" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" />
             </td>
             <td>  
-            <img alt="Alpine js" width="26px" title="Alpine js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" />
+                <img alt="Alpine js" width="26px" title="Alpine js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" />
             </td>
             <td>
-            <img alt="Livewire" width="26px" title="Livewire"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" />
+                <img alt="Livewire" width="26px" title="Livewire"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" />
             </td>
             <td>
-            <img alt="Laravel" width="26px" title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain.svg" />
+                <img alt="Laravel" width="26px" title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain.svg" />
             </td>
         </tr>
     </tbody>
