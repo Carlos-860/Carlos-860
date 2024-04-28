@@ -74,10 +74,10 @@
             <img alt="React js" width="26px" title="React js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" />
             </td>
             <td>
-            <img alt="Next js" width="26px" title="Next js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg" />
+            <img alt="Next js" width="26px" title="Next js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
             </td>
             <td>
-            <img alt="Socket.io" width="26px" title="Socket.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" />
+            <img alt="Socket.io" width="26px" title="Socket.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" />
             </td>
             <td>
             <img alt="React Router" width="26px" title="React Router" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" />
@@ -143,7 +143,7 @@
                 <img alt="Netlify" width="26px" title="Netlify" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
             </td>
             <td>
-                <img alt="Vercel" width="26px" title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />
+                <img alt="Vercel" width="26px" title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
             </td>
         </tr>
     </tbody>
