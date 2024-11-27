@@ -121,7 +121,6 @@
             <td>
                 <img alt="vscode" width="26px" title="vscode" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" />
             </td>
-
             <td>
                 <img alt="powershell" width="26px" title="powershell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
             </td>
