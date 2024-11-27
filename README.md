@@ -6,13 +6,13 @@
 
 :dancers: I'm looking to collaborate with other content creators
 
-:soccer: 2024 Goals: Build out a fully-fledged Saas tool for neglected industries.
+:soccer: 2025 (1st half) Goals: Enhance my full stack capabilites.
 
 :zap: _"You only find true fulfilment in things that challenge you"_
 
 ### Connect with me:
 
-[<img alt="Carlos 860 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/carlos-timotheus-web-developer-b276b4176/)
+[<img alt="Carlos 860 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/carlos-timotheus-b276b4176/)
 
 ### Langauges
 
@@ -121,6 +121,7 @@
             <td>
                 <img alt="vscode" width="26px" title="vscode" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" />
             </td>
+
             <td>
                 <img alt="powershell" width="26px" title="powershell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
             </td>
