@@ -38,6 +38,9 @@
                 <img alt="Node js" width="26px" title="Node js" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" />
             </td>
             <td>
+                <img alt="Python" width="26px" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" />
+            </td>
+            <td>
                 <img alt="MySQL" width="26px" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" />
             </td>
             <td>               
@@ -90,6 +93,9 @@
             </td>
             <td>
                 <img alt="Laravel" width="26px" title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain.svg" />
+            </td>
+            <td>
+                <img alt="Django" width="26px" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" />
             </td>
         </tr>
     </tbody>
@@ -178,7 +184,7 @@
 
 [Global Estates (built React.js and Express)](https://estate-project-w91u.onrender.com)
 
-[CarHub (built with Next.js and TypeScript)](https://github.com/Carlos-860/car-showcase/)
+[CarHub (built with Next.js and TypeScript)](https://car-showcase-project-t.netlify.app/)
 
 [Tesla Clone (built with React js)](https://carlos-860.github.io/Tesla-Clone/)
 
