@@ -6,7 +6,7 @@
 
 :dancers: I'm looking to collaborate with other content creators
 
-:soccer: 2025 (1st half) Goals: Enhance my full stack capabilites.
+:soccer: 2025 (2nd half) Goals: build on my software engineering background todelve more into AI, get hands-on with machine learning, and create a real, working AI-powered applications.
 
 :zap: _"You only find true fulfilment in things that challenge you"_
 
